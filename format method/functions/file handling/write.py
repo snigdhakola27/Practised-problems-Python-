@@ -1,0 +1,1 @@
+goal.write('This is file handling in python')
